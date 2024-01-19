@@ -1,0 +1,13 @@
+D:\MCL_STUFFS\Project_Space_GameProposal\bin\Debug\Project_Space_GameProposal.exe.config
+D:\MCL_STUFFS\Project_Space_GameProposal\bin\Debug\Project_Space_GameProposal.exe
+D:\MCL_STUFFS\Project_Space_GameProposal\bin\Debug\Project_Space_GameProposal.pdb
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.csproj.AssemblyReference.cache
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.csproj.SuggestedBindingRedirects.cache
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.Properties.Resources.resources
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.csproj.GenerateResource.cache
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.csproj.CoreCompileInputs.cache
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.exe
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.pdb
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.UIForms.resources
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.Program.resources
+D:\MCL_STUFFS\Project_Space_GameProposal\obj\Debug\Project_Space_GameProposal.FormMenu.resources
